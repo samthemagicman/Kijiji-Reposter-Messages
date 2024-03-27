@@ -1,4 +1,4 @@
 {
   "idTag": "data-testid",
-  "message": "An update has been pushed. Titles will no longer be edited, but ads will take longer to repost. You'll see v5.1.15 in Kijiji Reposter settings when you get it. Hopefully this fixes reposting issues. I'll be re-implementing spaces in titles if it's not resolved, it seems to help."
+  "message": "You can undelete ads by going to the puzzle icon in the top right of your browser, clicking the Kijiji Reposter icon, and finding your ad in the  list."
 }
